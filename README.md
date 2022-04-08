@@ -6,7 +6,7 @@ This python program can help you in making notes and review them. It is a GUI pr
 (Note: This is under development, I will be adding a scrollbar soon.)
 
 ## Preview
-[![startup](https://github.com/pri-k/Note-making/blob/master/images%20for%20readme/starting.jpg)](https://instagram.com/technicalprik)
+[![startup](https://github.com/pri-k/Note-making/blob/master/images%20for%20readme/starting.jpg)](https://instagram.com/khandapriyanshu)
 
 ## Setup
 <details>
